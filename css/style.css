@@ -102,3 +102,7 @@ body{
 .skype-call {
     padding-top: 2px;
 }
+
+.social-media a:hover{
+    text-decoration: none;
+}
