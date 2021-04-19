@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.coming-soon {
+    width: 100%;
+    padding: 0 0 20px 0;
+    background-image: url('../img/icons/Group\ 4.svg');
+    position: relative;
+    background-position: top center;
+    background-size: cover;
+    overflow: hidden;
+ }
+
+
+.company-logo img {
+    height: 171px;
+    margin: 0 auto;
+    display: block;
+    padding-top: 38px;
+}
+
+.header-text h1 {
+    font-size: 96px;
+    font-weight: 800;
+    color: #FFFF;
+    text-align: center;
+    line-height: 145px;
+    padding: 50px 0;
+    letter-spacing: 11px;
+}
+.calling-number img {
+    height: 31px;
+    width: 48px;
+    vertical-align: middle;
+
+}
+
+.calling-number {
+    text-align: center;
+}
+
+.calling-number span {
+    color: #FFFF;
+    vertical-align: middle;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 59px;
+    letter-spacing: 0.09em;
+    text-align: left;
+}
+
+.contact-number {
+    margin-top: 43px;
+    text-align: center;
+}
+
+.contact-number span {
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0.09em;
+    text-align: center;
+    color: #FFFF;
+
+}
+
+.contact-email,.social-media{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.contact-email span {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0.19em;
+    color: #FFFF;
+}
+
+.social-media img {
+    height: 26px;
+    width: 26px;
+    margin-right: 8px;
+}
+
+.skype-call {
+    padding-top: 2px;
+}
